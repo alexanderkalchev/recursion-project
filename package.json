@@ -17,5 +17,9 @@
   "scripts": {
     "fibonacci": "node fibonacci.js",
     "mergeSort": "node mergeSort.js"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.2",
+    "jest": "^30.3.0"
   }
 }
