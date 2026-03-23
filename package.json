@@ -1,0 +1,21 @@
+{
+  "name": "recursion-project",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/alexanderkalchev/recursion-project#readme",
+  "bugs": {
+    "url": "https://github.com/alexanderkalchev/recursion-project/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexanderkalchev/recursion-project.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "fibonacci.js",
+  "scripts": {
+    "fibonacci": "node fibonacci.js",
+    "mergeSort": "node mergeSort.js"
+  }
+}
